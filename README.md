@@ -4,3 +4,4 @@
 
 ### Question solved 🔍
 * Tebas Tebang Pohon [🌳] [[OSNP2024]](https://tlx.toki.id/problems/osnp-2024/C) -> O(n log n + n log maxA)
+* Gudang Penyimpanan Kardus [📦] [[OSNP2025](https://tlx.toki.id/problems/osnp-2025/B/)] -> O(log n * max(p, l))
